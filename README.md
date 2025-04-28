@@ -2,6 +2,12 @@
 
 A simple web interface to generate customizable QR Codes in real time. Built with Python, Flask, qrcode, and Pillow.
 
+## 📸 Example QR Code
+
+![Example QR Code](https://github.com/carolhcs/QR-Code-Generator-Customized/blob/main/images/carolsalvatoQRcode.png?raw=true "Sample generated QR Code")
+
+![Example QR Code](https://github.com/carolhcs/QR-Code-Generator-Customized/blob/main/images/carolsalvatoQRcodecolor-logo.png?raw=true)
+
 ## 📦 Technologies
 
 - **Python 3.7+**
@@ -73,6 +79,10 @@ A simple web interface to generate customizable QR Codes in real time. Built wit
 ├── requirements.txt       # (optional) dependency list
 └── README.md              # This documentation file
 ```
+
+## Application Page
+
+![Application](https://github.com/carolhcs/QR-Code-Generator-Customized/blob/main/images/gerador-qr-code-customizavel-pagina.png?raw=true)
 
 ## 📄 License
 
